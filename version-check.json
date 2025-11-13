@@ -1,7 +1,7 @@
 {
-    "versionCode": 20608,
-    "versionName": "0.0.0",
-    "downloadUrl": "https://saadat-notebook.github.io/app/",
-    "apkUrl": "https://raw.githubusercontent.com/saadat-notebook/app/main/downloads/app-release-v2.6.8.apk",
-    "whatsNew": "1. Model Test Generator: Added a new \"Model Test\" feature for users to create custom practice exams.\r\n2. Improved error handling to correctly display custom server error pages.\r\n3. You will now see proper \"Page Not Found\" and other error pages instead of the generic offline screen."
+    "versionCode": 10000,
+    "versionName": "1.0.0",
+    "downloadUrl": "https://msleepyhead.github.io/page42/",
+    "apkUrl": "https://raw.githubusercontent.com/msleepyhead/page42/main/downloads/app-release-v1.0.0.apk",
+    "whatsNew": "General improvements and bug fixes."
 }
